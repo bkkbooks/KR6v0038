@@ -21,11 +21,11 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0038_000.yaml, hash: 'sha256:01da9d43ab110e81e93711d3bcc66b28b85c5b391d19ee40d7458a3d26abf73f'}
-  - {seq: 1, filename: KR6v0038_001.yaml, hash: 'sha256:d17f32e436c273708679847211d276b7be693ecc748fc7138ef84c5ba95cbdb2'}
+  - {seq: 0, filename: KR6v0038_000.yaml, hash: 'sha256:c0723e58b5b42fa818556dca07ab03ac3dc20535bafd19f6636e66e957961c87'}
+  - {seq: 1, filename: KR6v0038_001.yaml, hash: 'sha256:6602404a536c1c672e4693d8b0c7e7b8bd8f0948c08857390e8dee94405a438c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0038_000.markers.yaml, hash: 'sha256:d0122473e3c881605c3f41708ac2297317741a59bf3587cbb0676a5d17409270'}
-  - {seq: 1, role: markers, filename: assets/KR6v0038_001.markers.yaml, hash: 'sha256:80b909206e32d44cdb86facef10798600984e797ad66dce89acc34aff51c1749'}
+  - {seq: 0, role: markers, filename: assets/KR6v0038_000.markers.yaml, hash: 'sha256:2bda73a9bdd47cbc4962ab1a3dd1fab931db6bb5a83f1e26619cb7570d08308a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0038_001.markers.yaml, hash: 'sha256:13434d2048518ae916ea6690849adf8e627d3ea65b85fb0df8e9a5b1e4691763'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 佛說觀佛三昧海經本行品第八
   type: juan
   level: 1
-hash: sha256:8d854180821e400a8eeb3dab0bd93e9c0a5cbf0fd8acc7a3c84351c9a673d088
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ce7b22c07332090b7f5f5fabf641a88f77c23901bce9540e7a36fba4768bfd34

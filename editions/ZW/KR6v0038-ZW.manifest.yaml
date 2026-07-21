@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0038_000-ZW.yaml, hash: 'sha256:c0723e58b5b42fa818556dca07ab03ac3dc20535bafd19f6636e66e957961c87'}
+  - {seq: 0, filename: KR6v0038_000-ZW.yaml, hash: 'sha256:a018ffa4cb8f0b794d66d5ea9018a3c1813b15bec7b7dac75d0a5b6e0ec268cb'}
   - {seq: 1, filename: KR6v0038_001-ZW.yaml, hash: 'sha256:6602404a536c1c672e4693d8b0c7e7b8bd8f0948c08857390e8dee94405a438c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0038_000-ZW.markers.yaml, hash: 'sha256:cc1df1183e6d4db965d4a205485be3acc62b23f03f0585d27c1bd09ce1f9b12b'}
+  - {seq: 0, role: markers, filename: assets/KR6v0038_000-ZW.markers.yaml, hash: 'sha256:e0e29db8322eb8fb39b80917564ba511b362ac558b516ed4c97d08621b958164'}
   - {seq: 1, role: markers, filename: assets/KR6v0038_001-ZW.markers.yaml, hash: 'sha256:45652444845b7ecc0ed617bf9d32f91ac9e3b4d8024c758d9bd9dd26bd399a03'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0038_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0038_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 646
     - 646
   label: 錄文一
@@ -55,4 +55,4 @@ table_of_contents:
   label: 佛說觀佛三昧海經本行品第八
   type: juan
   level: 1
-hash: sha256:78d912f460d7337c7614eab21d8c428449b0b97b95c05ebe479cb25a9b08c449
+hash: sha256:fb372bb71957e1fa9d87e41fc12280e77fd4f5e6da90104728169cfa799078f3

@@ -21,17 +21,17 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0038_000.yaml, hash: 'sha256:7388fb0fb1eef80b6895466833714c0fb7feb181a0765189af3b236f37e8fb25'}
+  - {seq: 0, filename: KR6v0038_000.yaml, hash: 'sha256:28b3bb75b55adfad7e9c63ce80ab60e80bcfad2595acd1e2d90a30729196ad62'}
   - {seq: 1, filename: KR6v0038_001.yaml, hash: 'sha256:56e2564bb4becd908fed9ab83d96dc4eecc83a21e32ea587751208fb3e87dc3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0038_000.markers.yaml, hash: 'sha256:5a5b8dcac0bdde640ff730621b2ae2be4a990dfa651406a7b898784a2236c282'}
+  - {seq: 0, role: markers, filename: assets/KR6v0038_000.markers.yaml, hash: 'sha256:63196e1031f800ad57d59176aa0801ecb53305d900e34ae9d1d5665b084eccf1'}
   - {seq: 1, role: markers, filename: assets/KR6v0038_001.markers.yaml, hash: 'sha256:55483968435a3c849656660d36008d17615df31d08a74875a02da7fefefe7641'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0038_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0038_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 646
     - 646
   label: 錄文一
@@ -57,7 +57,7 @@ table_of_contents:
   label: 佛說觀佛三昧海經本行品第八
   type: juan
   level: 1
-hash: sha256:365564b03d0db8a361d9a637542d3b0ec054ccab8508b263ad27a34b783b9312
+hash: sha256:3cb14d239d08c1972786f8be4dcf3f08db33145cbb6f574e3ea131ad01072c09
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
